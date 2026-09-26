@@ -1,0 +1,3 @@
+[Sat Sep 26 03:14:15 2026] [core:error] [pid 1234] AH00098: pid file overwritten
+[Sat Sep 26 03:14:15 2026] [core:alert] [pid 1234] AH00076: Failed to open the pid file
+[Sat Sep 26 03:14:15 2026] [core:error] [pid 1234] (13)Permission denied: AH00076
